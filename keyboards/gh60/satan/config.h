@@ -87,4 +87,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* Grave Escape */
 #define GRAVE_ESC_CTRL_OVERRIDE // Always send Escape if Control is pressed
 #define GRAVE_ESC_GUI_OVERRIDE // Always send Escape if GUI is pressed
-#define GRAVE_ESC_SHIFT_OVERRIDE // Always send Escape if Shift is pressed
